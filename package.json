@@ -1,0 +1,21 @@
+{
+  "name": "uconfig",
+  "version": "1.0.0",
+  "description": "Micro Configurations Reader for Masses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "config",
+    "json",
+    "env",
+    "production"
+  ],
+  "author": "Lev Gelfenbuim <levz0r@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.get": "^4.4.2"
+  },
+  "homepage": "https://github.com/levz0r/uconfig"
+}

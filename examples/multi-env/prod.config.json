@@ -1,0 +1,9 @@
+{
+    "DB": {
+        "USERNAME": "prod_user",
+        "PASSWORD": "prod_password"
+    },
+    "API": {
+        "ENDPOINT": "http://prod.example.com"
+    }
+}

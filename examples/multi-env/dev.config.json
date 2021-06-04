@@ -1,0 +1,9 @@
+{
+    "DB": {
+        "USERNAME": "dev_user",
+        "PASSWORD": "dev_password"
+    },
+    "API": {
+        "ENDPOINT": "http://dev.example.com"
+    }
+}
