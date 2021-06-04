@@ -1,6 +1,6 @@
 {
-  "name": "uconfig",
-  "version": "1.0.0",
+  "name": "@levz0r/uconfig",
+  "version": "1.0.2",
   "description": "Micro Configurations Reader for Masses",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,16 @@
   "dependencies": {
     "lodash.get": "^4.4.2"
   },
-  "homepage": "https://github.com/levz0r/uconfig"
+  "homepage": "https://github.com/levz0r/uconfig",
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levz0r/uconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/levz0r/uconfig/issues"
+  }
 }

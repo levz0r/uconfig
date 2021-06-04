@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" width="80%"/></p>
+<p align="center"><img alt="uConfig" src="https://user-images.githubusercontent.com/4564386/120866195-19979f00-c598-11eb-9b3d-41c10cc26999.png" width="80%"/></p>
 
 <h2 align="center">🤏 Micro Configurations Reader for Masses</h2>
 
@@ -8,7 +8,7 @@
 
 ## Getting Started
 
-Install uConfig using [`npm`](https://www.npmjs.com/package/uconfig):
+Install uConfig using [`npm`](https://www.npmjs.com/package/@levz0r/uconfig):
 
 ```bash
 npm i uconfig
@@ -34,7 +34,7 @@ For example:
 Initialize uConfig instance:
 
 ```javascript
-const uConfig = require("uconfig").default;
+const uConfig = require("@levz0r/uconfig").default;
 
 const config = new uConfig(/* Path to configuration JSON */);
 ```
