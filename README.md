@@ -11,7 +11,7 @@
 Install uConfig using [`npm`](https://www.npmjs.com/package/@levz0r/uconfig):
 
 ```bash
-npm i uconfig
+npm i @levz0r/uconfig
 ```
 
 ## Usage
